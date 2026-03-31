@@ -1,0 +1,14 @@
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\bin\Debug\net10.0\Filosofos01.exe
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\bin\Debug\net10.0\Filosofos01.deps.json
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\bin\Debug\net10.0\Filosofos01.runtimeconfig.json
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\bin\Debug\net10.0\Filosofos01.dll
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\bin\Debug\net10.0\Filosofos01.pdb
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\Filosofos01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\Filosofos01.AssemblyInfoInputs.cache
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\Filosofos01.AssemblyInfo.cs
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\Filosofos01.csproj.CoreCompileInputs.cache
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\Filosofos01.dll
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\refint\Filosofos01.dll
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\Filosofos01.pdb
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\Filosofos01.genruntimeconfig.cache
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\ref\Filosofos01.dll

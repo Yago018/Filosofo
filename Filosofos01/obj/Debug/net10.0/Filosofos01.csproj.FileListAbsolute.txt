@@ -12,3 +12,4 @@ C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\r
 C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\Filosofos01.pdb
 C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\Filosofos01.genruntimeconfig.cache
 C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\ref\Filosofos01.dll
+C:\Users\Yano\Desktop\Trabalhos\Hugo\Filosofos01\Filosofos01\obj\Debug\net10.0\Filosofos01.sourcelink.json

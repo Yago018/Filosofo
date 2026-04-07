@@ -5,6 +5,7 @@ class Program
     {
         bool pegou01 = false, pegou02 = false;
         bool veriF01 = false, veriF02 = false;
+        int a = 0, b = 0, c = 0, d = 0;
         string Filosofo, Acao;
         while (true)
         {
@@ -28,40 +29,31 @@ class Program
                     }
                     if (Acao == "B1")
                     {
-                        if (pegou02 == true) Console.WriteLine("Não pode pegar o garfo novamente");
+                        if (pegou02 == true) Console.WriteLine("Não pode pegar o garfo");
                         else if (pegou02 != true)
                         {
                             Console.WriteLine("O filosofo pegou o garfo");
                             pegou02 = true;
                         }
                     }
+
                     if (Acao == "A2")
                     {
-                        if (pegou01 == true) Console.WriteLine("Não pode pegar a faca novamente");
-                        else if (pegou01 != true)
-                        {
-                            Console.WriteLine("O fisofo pegou a faca");
-                            pegou01 = true;
-                        }
+                        Console.WriteLine("Não pode pegar A2");
                     }
                     if (Acao == "B2")
                     {
-                        if (pegou02 == true) Console.WriteLine("Não pode pegar o garfo novamente");
-                        else if (pegou02 != true)
-                        {
-                            Console.WriteLine("O filosofo pegou o garfo");
-                            pegou02 = true;
-                        }
+                        Console.WriteLine("Não pode pegar B2");
                     }
                     if (pegou01 == true && pegou02 == true)
                     {
+                        Console.WriteLine("O Filosofo 1 comeu");
                         veriF01 = true;
                         break;
                     }
                 }
             }
-            pegou01 = false;
-            pegou02 = false;
+            pegou01 = false; pegou02 = false;
             if (Filosofo == "F2")
             {
 
@@ -73,7 +65,7 @@ class Program
                         Acao = Console.ReadLine().ToUpper();
                         if (Acao == "A2")
                         {
-                            if (pegou01 == true) Console.WriteLine("Não pode pegar a faca novamente");
+                            if (pegou01 == true) Console.WriteLine("Não pode pegar a faca");
                             else if (pegou01 != true)
                             {
                                 Console.WriteLine("O fisofo pegou a faca");
@@ -82,7 +74,7 @@ class Program
                         }
                         if (Acao == "B2")
                         {
-                            if (pegou02 == true) Console.WriteLine("Não pode pegar o garfo novamente");
+                            if (pegou02 == true) Console.WriteLine("Não pode pegar o garfo");
                             else if (pegou02 != true)
                             {
                                 Console.WriteLine("O filosofo pegou o garfo");
@@ -91,24 +83,15 @@ class Program
                         }
                         if (Acao == "A1")
                         {
-                            if (pegou01 == true) Console.WriteLine("Não pode pegar a faca");
-                            else if (pegou01 != true)
-                            {
-                                Console.WriteLine("O fisofo pegou a faca");
-                                pegou01 = true;
-                            }
+                            Console.WriteLine("Não pode pegar A1");
                         }
                         if (Acao == "B1")
                         {
-                            if (pegou02 == true) Console.WriteLine("Não pode pegar o garfo novamente");
-                            else if (pegou02 != true)
-                            {
-                                Console.WriteLine("O filosofo pegou o garfo");
-                                pegou02 = true;
-                            }
+                            Console.WriteLine("Não pode pegar B1");
                         }
                         if (pegou01 == true && pegou02 == true)
                         {
+                            Console.WriteLine("O Filosofo 2 comeu");
                             veriF02 = true;
                             break;
                         }
